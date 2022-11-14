@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{AD7EA3C7-0091-4E76-8849-D4861B8B9466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{12D2D18F-325D-4002-AE44-AA28C770E558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{A05B85A0-FA3A-47C8-874D-3EAE8E1BCC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7EA3C7-0091-4E76-8849-D4861B8B9466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7EA3C7-0091-4E76-8849-D4861B8B9466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7EA3C7-0091-4E76-8849-D4861B8B9466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7EA3C7-0091-4E76-8849-D4861B8B9466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D2D18F-325D-4002-AE44-AA28C770E558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D2D18F-325D-4002-AE44-AA28C770E558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D2D18F-325D-4002-AE44-AA28C770E558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D2D18F-325D-4002-AE44-AA28C770E558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05B85A0-FA3A-47C8-874D-3EAE8E1BCC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05B85A0-FA3A-47C8-874D-3EAE8E1BCC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05B85A0-FA3A-47C8-874D-3EAE8E1BCC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05B85A0-FA3A-47C8-874D-3EAE8E1BCC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982D725D-E4C0-4E44-A69F-30914E4B5A2A}
+	EndGlobalSection
+EndGlobal
